@@ -1,4 +1,4 @@
-<h2><img width="80" src="https://img-premium.flaticon.com/png/512/2542/premium/2542460.png?token=exp=1621503356~hmac=cd3c9c220ea110d09357935283ff29fb"/> About Me </h2>
+<h2> About Me </h2>
 
 <div>
   <ul>
