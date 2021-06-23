@@ -4,9 +4,9 @@
   <ul>
     <li>🐵 Name: Jochen Rui</li>
     <li>🌍 Location: South of Germany, close to Stuttgart</li>
-    <li>💼 Occupation: Working Student - Full Stack Engineer @Daimler</li>
+    <li>💼 Occupation: Working Student(Full Stack Developer) @Daimler | Junior Full Stack Developer @Cognostics AG starting in august</li>
     <li>🗣 Spoken Languages (in order): German, English, Chinese, Cantonese, French, Spanish</li>
-    <li>💻 Languages (in order): JavaScript, Java, TypeScript, Python, PHP, ...</li>
+    <li>💻 Languages (in order): JavaScript, Java, TypeScript, Python, ...</li>
   </ul>
 </div>
 
