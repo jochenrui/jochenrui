@@ -4,25 +4,15 @@
   <ul>
     <li>🐵 Name: Jochen Rui</li>
     <li>🌍 Location: South of Germany, close to Stuttgart</li>
-    <li>💼 Occupation: Working Student(Full Stack Developer) @Daimler | Junior Full Stack Developer @Cognostics AG starting in august</li>
+    <li>💼 Occupation: Junior Full Stack Developer @Cognostics AG</li>
     <li>🗣 Spoken Languages (in order): German, English, Chinese, Cantonese, French, Spanish</li>
-    <li>💻 Languages (in order): JavaScript, Java, TypeScript, Python, ...</li>
+    <li>💻 Languages: JavaScript, Java, TypeScript, Python, ...</li>
   </ul>
 </div>
 
 <div>
 <img src="https://image.flaticon.com/icons/png/512/2694/2694971.png" align="right" width="350"/>
-<h2>I'm currently...</h2>
 
-<ul>
-  <li>👨‍🎓 learning a lot about full stack technologies, JS as well as Java, Design Patterns & Testing Libraries</li>
-  <li>📃 working a lot more with IaaC</li>
-  <li>📕 reading Head First Design Patterns by Freeman et. al 2004</li>
-</ul>
-
-
-<h2> Interests </h2>
-In my free time I like to leetcode, play video games, work on my car, play the guitar or try to fix stuff at home, although I barely have time at the moment
 
 <h2>Social</h2>
 <a href="https://www.linkedin.com/in/jochen-rui-114065149/">LinkedIn</a></br>
