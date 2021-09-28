@@ -3,7 +3,7 @@
 <div>
   <ul>
     <li>🐵 Name: Jochen Rui</li>
-    <li>🌍 Location: South of Germany, close to Stuttgart</li>
+    <li>🌍 Location: Munich</li>
     <li>💼 Occupation: Junior Full Stack Developer @Cognostics AG</li>
     <li>🗣 Spoken Languages (in order): German, English, Chinese, Cantonese, French, Spanish</li>
     <li>💻 Languages: JavaScript, Java, TypeScript, Python, ...</li>
